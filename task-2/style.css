@@ -1,0 +1,56 @@
+:root {
+  --primary-colour: #529cba;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+a {
+  color: var(--primary-colour);
+}
+
+#tweets-list {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+  gap: 2vmin;
+  list-style-type: none;
+}
+
+#add-tweet-section {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 3vmin;
+  justify-content: center;
+  align-items: center;
+  width: 70vmin;
+}
+
+#add-tweet-section label {
+  display: flex;
+  flex-direction: column;
+  gap: 4vmin;
+  width: 100%;
+}
+
+#add-tweet-section button {
+  padding: 2vmin;
+  color: var(--primary-colour);
+  border-radius: 1vmin;
+  font-size: 3vmin;
+}
+
+#add-tweet-section input,
+#add-tweet-section textarea {
+  padding: 2vmin;
+}
+
+.tweeter {
+  color: var(--primary-colour);
+}
