@@ -1,0 +1,7 @@
+🧩User navigates to the URL where the app is running 🍏 
+🧩User types a username/name into the "Name" input 🍏
+🧩Input should now contain the name they've entered 🍏
+🧩User types a tweet into the "Tweet" text area 🍏
+🧩Text area should now contain the tweet they've entered 🍏
+🧩User clicks on the "Send tweet!" button 
+🧩Both the input and text area should have been cleared, and a new entry should have been added to the list

@@ -2,11 +2,11 @@
 
 ## Solidify your testing knowledge 🔎
 
-### Task 1: Write your own Codewars! ⚔️
+### Task 1: Write your own Codewars! ⚔️ 🍏
 
 You've spent the past few weeks solving katas on CodeWars, and you might think that they're written by an elite cabal of software geniuses (or not if you've run across a few less-than-stellar katas!). Not so - they're written by ordinary programmers, and you're now officially School of Code-qualified to join in and give writing your own a try. It's a great opportunity to practice your unit testing with Jest as well. 🧪
 
-👉 [Click here](https://classroom.github.com/a/NUJnoKcZ) for the link to this task. This way, you can share the separate repo with your fellow bootcampers so they can try out your kata.
+👉 [Click here](https://classroom.github.com/a/NUJnoKcZ) for the link to this task. This way, you can share the separate repo with your fellow bootcampers so they can try out your kata. 🍏
 
 ### Task 2: End-to-end test with Playwright 📜
 

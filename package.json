@@ -4,12 +4,14 @@
   "description": "## Solidify your testing knowledge 🔎",
   "main": "index.js",
   "scripts": {
-    "start": "serve task-2"
+    "start": "serve task-2",
+    "test": "playwright test"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@playwright/test": "^1.32.2",
     "serve": "^14.2.0"
   }
 }
